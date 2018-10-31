@@ -21,6 +21,8 @@ The recommended workflow for editing or contributing new SVG marble diagrams is 
 All `*.svg` marble diagrams are found in `/reactor-core/src/main/java/reactor/core/publisher/doc-files/marbles/` folder.
 This same folder will be embedded in the `-sources.jar` and `-javadoc.jar` artifacts.
 
+Note that there is a `conventions.svg` document that regroups the different graphical conventions for representing recurrent elements of marbles (static operator vs method operator, blocking, timeouts, lambdas, etc...).
+
 ### Optimizing the SVG files
 
 We want the SVG size to be kept as small and clutter-free as possible, as the images are embedded in the source and javadoc jars.
@@ -33,15 +35,35 @@ We also had a lot of problems with arrowheads disappearing during optimizations,
 So the recommended configuration for optimizing is as follows:
 
  - Use [svgo](https://github.com/svg/svgo) (it is an NPM module, but you can get it on OSX via Homebrew: `brew install svgo`)
+ - Only optimize the file(s) you've been editing. For multiple files, prefer exporting the result in a temporary folder for verification first.
  - Use the following command from the repo root to maintain arrowheads and pretty printing while optimizing the SVGs correctly:
  
-```sh
-svgo --folder="reactor-core/src/main/java/reactor/core/publisher/doc-files/marbles/" --multipass --pretty --indent=2 --precision=0 --disable={cleanupIDs,removeNonInheritableGroupAttrs}
-```
-
-Alternatively, to optimize a single SVG file, use the `--input` option:
-
 ```sh
 svgo --input="reactor-core/src/main/java/reactor/core/publisher/doc-files/marbles/reduce.svg" --multipass --pretty --indent=2 --precision=0 --disable={cleanupIDs,removeNonInheritableGroupAttrs}
 ```
 
+TIP: you can use git to stage the file pre-optimization, check it renders correctly post-optimization and revert using `git checkout path/to/file.svg` if that is not the case.
+
+Alternatively, to optimize a whole folder into a temporary folder for comparison, use the `--folder` and `--output` options:
+
+```sh
+svgo --folder="reactor-core/src/main/java/reactor/core/publisher/doc-files/marbles/" --multipass --pretty --indent=2 --precision=0 --disable={cleanupIDs,removeNonInheritableGroupAttrs} --output=/tmp/svg/ --quiet
+```
+
+### Optimization Tips and Tricks
+
+#### Arrows and other elements disappear
+Try ungrouping the object.
+Some objects are grouped for copy/paste convenience in the `conventions.svg` document, but should be ungrouped.
+
+### Inkscape Tips and Tricks
+
+#### On OSX with dual monitor Inkscape disappear
+Unfortunately, Inkscape with XQuartz is not always ideally working. This disappearing problem is due to misalignment in coordinate systems.
+
+You can deactivate an option in OSX's `Mission Control` preferences: uncheck `Displays have separate spaces`.
+This needs a re-login and has the unfortunate effect that the menu bar will now only appear on the main screen (the one with the dock).
+
+#### Inkscape is slow as hell to open and close documents
+ - Try closing all but one document, then close every tool dialog and restart Inkscape
+ - In Preferences, you can try playing with `Rendering` options: number of thread, cache size, display filters quality.
