@@ -12,7 +12,7 @@
    width="665.84991"
    height="217.53658"
    id="svg225"
-   sodipodi:docname="generateWithSink.svg"
+   sodipodi:docname="generateStateless.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata6820">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,7 +49,7 @@
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg225" />
+     inkscape:current-layer="g12005" />
   <defs
      id="defs33">
     <marker
@@ -1023,19 +1023,6 @@
          id="path5247-2-59"
          d="M -11,-4 1,0 -11,4 c 2,-2 2,-6 0,-8 z" />
     </marker>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter10294"
-       x="-0.018580878"
-       width="1.0371618"
-       y="-0.062489267"
-       height="1.1249785">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.23921673"
-         id="feGaussianBlur10296" />
-    </filter>
     <marker
        style="overflow:visible"
        orient="auto"
@@ -1314,18 +1301,10 @@
          x="507.28104"
          y="49.982235"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sec</tspan></text>
-    <text
-       style="font-size:25.04722214px;fill:#020000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       y="23.941584"
-       x="332.86435"
-       id="text1016">
-      <tspan
-         style="font-weight:400;font-size:41.74536896px;font-family:FontAwesome;fill:#020000;fill-opacity:1;stroke-width:1"
-         id="tspan1014"
-         y="59.425144"
-         x="453.92593"
-         font-weight="400"
-         font-size="20"></tspan>
-    </text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path11448"
+       style="font-weight:400;font-size:41.74536896px;font-family:FontAwesome;fill:#020000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 474.79862,36.316101 c 0,-0.419318 -0.32614,-0.745453 -0.74545,-0.745453 h -1.49091 c -0.41932,0 -0.74545,0.326135 -0.74545,0.745453 v 8.199983 h -5.21817 c -0.41932,0 -0.74546,0.326136 -0.74546,0.745453 v 1.490906 c 0,0.419317 0.32614,0.745453 0.74546,0.745453 h 7.45453 c 0.41931,0 0.74545,-0.326136 0.74545,-0.745453 z m 9.69089,8.199983 c 0,6.988622 -5.68408,12.672701 -12.6727,12.672701 -6.98863,0 -12.67271,-5.684079 -12.67271,-12.672701 0,-6.988622 5.68408,-12.672701 12.67271,-12.672701 6.98862,0 12.6727,5.684079 12.6727,12.672701 z m 5.21817,0 c 0,-9.877253 -8.01362,-17.890873 -17.89087,-17.890873 -9.87726,0 -17.89088,8.01362 -17.89088,17.890873 0,9.877252 8.01362,17.890872 17.89088,17.890872 9.87725,0 17.89087,-8.01362 17.89087,-17.890872 z" />
   </g>
 </svg>
