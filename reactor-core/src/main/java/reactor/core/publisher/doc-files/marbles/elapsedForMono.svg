@@ -456,42 +456,34 @@
      style="fill:none;fill-opacity:1;stroke:#929292;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2, 6.00000001;stroke-opacity:1" />
   <text
      id="text104"
-     x="138"
+     x="118"
      y="100"
-     fill="#929292"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     style="fill:#929292;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        font-size="20"
        font-weight="400"
-       x="172"
+       x="152"
        y="119"
        id="tspan94"
-       font-family="'Tahoma','Nimbus Sans L'"
-       fill="#929292">t</tspan>
+       style="font-weight:400;font-size:20px;font-family:Tahoma, 'Nimbus Sans L';fill:#929292">t</tspan>
     <tspan
        font-size="13"
        font-weight="400"
        y="119"
        id="tspan96"
-       font-family="'Tahoma','Nimbus Sans L'"
-       fill="#929292">0</tspan>
+       style="font-weight:400;font-size:13px;font-family:Tahoma, 'Nimbus Sans L';fill:#929292">0</tspan>
     <tspan
        font-size="20"
        font-weight="400"
        y="119"
        id="tspan100"
-       font-family="'Tahoma','Nimbus Sans L'"
-       fill="#929292">=</tspan>
+       style="font-weight:400;font-size:20px;font-family:Tahoma, 'Nimbus Sans L';fill:#929292">=</tspan>
     <tspan
        font-size="20"
        font-weight="400"
        y="119"
        id="tspan102"
-       font-family="FontAwesome"
-       fill="#929292"></tspan>
+       style="font-weight:400;font-size:20px;font-family:FontAwesome;fill:#929292" />
   </text>
   <path
      id="line37"
@@ -598,4 +590,20 @@
        font-size="19"
        style="font-size:19px;fill:#34302c;fill-opacity:1">,</tspan>
   </text>
+  <g
+     transform="translate(112.70576,-107.76674)"
+     id="g21906-4"
+     style="stroke:#929292;stroke-opacity:1">
+    <circle
+       r="8.1713362"
+       cy="219.97815"
+       cx="97.409927"
+       id="path21883-1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#929292;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path21885-79"
+       d="m 98,216.00934 v 4.84228 h -3.480381 v 0"
+       style="fill:none;fill-rule:evenodd;stroke:#929292;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
 </svg>

@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -589,37 +589,11 @@
      id="path96452"
      inkscape:connector-curvature="0"
      style="fill:#7ebd50;fill-opacity:1;stroke:none;stroke-width:0.76017922;stroke-dasharray:none;stroke-opacity:1" />
-  <text
-     id="text96456"
-     x="-17.312485"
-     y="210.23868"
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
-    <tspan
-       font-size="20"
-       font-weight="400"
-       x="89.687508"
-       y="227.23868"
-       id="tspan96454"
-       style="font-weight:400;font-size:20px;font-family:FontAwesome;fill:#ffffff"></tspan>
-  </text>
   <path
      style="fill:#7ebd50;fill-opacity:1;stroke:none;stroke-width:0.76017922;stroke-dasharray:none;stroke-opacity:1"
      inkscape:connector-curvature="0"
      id="path96458"
      d="m 295.26541,206.23868 h 44.4961 v 27 h -44.4961 l -0.5779,-1 v -25 z" />
-  <text
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-     y="210.23868"
-     x="214.68755"
-     id="text96462">
-    <tspan
-       style="font-weight:400;font-size:20px;font-family:FontAwesome;fill:#ffffff"
-       id="tspan96460"
-       y="227.23868"
-       x="321.6875"
-       font-weight="400"
-       font-size="20"></tspan>
-  </text>
   <path
      style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:1.92211449;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-8)"
      inkscape:connector-curvature="0"
@@ -650,66 +624,36 @@
      inkscape:connector-curvature="0"
      style="fill:#7ebd50;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
   <text
-     y="209.23868"
-     x="457.68753"
-     id="text96555"
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
+     id="text42"
+     x="36.884457"
+     y="252.11588"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
-       id="tspan96553"
-       y="226.23868"
-       x="565.6875"
-       font-weight="400"
-       font-size="20"
-       style="font-weight:400;font-size:20px;font-family:FontAwesome;fill:#ffffff"></tspan>
+       font-size="24"
+       font-weight="700"
+       x="213.88446"
+       y="274.11588"
+       id="tspan40"
+       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c">blockOptional (</tspan>
   </text>
-  <g
-     id="g96574"
-     transform="translate(-657.06879,-85.03033)">
-    <text
-       style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-       y="337.14621"
-       x="693.95325"
-       id="text42">
-      <tspan
-         style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c"
-         id="tspan40"
-         y="359.14621"
-         x="870.95325"
-         font-weight="700"
-         font-size="24">blockOptional (</tspan>
-    </text>
-    <text
-       style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-       id="text926"
-       x="1015.9532"
-       y="337.14621">
-      <tspan
-         style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c"
-         font-size="24"
-         font-weight="700"
-         x="1192.9532"
-         y="359.14621"
-         id="tspan924">)</tspan>
-    </text>
-    <path
-       style="fill:#7ebd50;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0"
-       d="m 1060.9532,338.1462 h 125 v 27 h -125 l -1,-1 v -25 z"
-       id="path1036" />
-    <text
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-       id="text1040"
-       x="1006.3818"
-       y="341.14621">
-      <tspan
-         style="font-weight:400;font-size:20px;font-family:FontAwesome;fill:#ffffff"
-         font-size="20"
-         font-weight="400"
-         x="1114.3817"
-         y="358.14621"
-         id="tspan1038"></tspan>
-    </text>
-  </g>
+  <text
+     y="252.11588"
+     x="358.8844"
+     id="text926"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
+    <tspan
+       id="tspan924"
+       y="274.11588"
+       x="535.88446"
+       font-weight="700"
+       font-size="24"
+       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c">)</tspan>
+  </text>
+  <path
+     id="path1036"
+     d="m 403.88441,253.11587 h 125 v 27 h -125 l -1,-1 v -25 z"
+     inkscape:connector-curvature="0"
+     style="fill:#7ebd50;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
   <rect
      y="331.1438"
      x="62.09317"
@@ -973,4 +917,64 @@
        id="tspan93643"
        style="font-weight:400;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;fill-opacity:1">)</tspan>
   </text>
+  <g
+     transform="translate(232.31846,-0.07473748)"
+     id="g21906">
+    <circle
+       r="8.1713362"
+       cy="219.97815"
+       cx="97.409927"
+       id="path21883"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#fffcf9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path21885"
+       d="m 98,216.00934 v 4.84228 h -3.480381 v 0"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(0.77017087,-0.07473748)"
+     id="g21906-2">
+    <circle
+       r="8.1713362"
+       cy="219.97815"
+       cx="97.409927"
+       id="path21883-9"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#fffcf9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path21885-7"
+       d="m 98,216.00934 v 4.84228 h -3.480381 v 0"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(369.27863,46.14932)"
+     id="g21906-1">
+    <circle
+       r="8.1713362"
+       cy="219.97815"
+       cx="97.409927"
+       id="path21883-0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#fffcf9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path21885-2"
+       d="m 98,216.00934 v 4.84228 h -3.480381 v 0"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(477.56276,-0.07473748)"
+     id="g21906-5">
+    <circle
+       r="8.1713362"
+       cy="219.97815"
+       cx="97.409927"
+       id="path21883-3"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#fffcf9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path21885-6"
+       d="m 98,216.00934 v 4.84228 h -3.480381 v 0"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
 </svg>

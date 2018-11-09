@@ -575,24 +575,6 @@
      stroke="none"
      stroke-dasharray="none"
      stroke-opacity="1" />
-  <text
-     id="text104"
-     x="75"
-     y="189"
-     fill="#fff"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
-    <tspan
-       id="tspan102"
-       y="206"
-       x="130"
-       font-weight="400"
-       font-size="20"
-       font-family="FontAwesome"
-       fill="#fff"></tspan>
-  </text>
   <path
      id="line118"
      fill="none"
@@ -672,19 +654,6 @@
      inkscape:connector-curvature="0"
      d="m 304,146 h 135 l 1,1 v 25 l -1,1 H 304 l -1,-1 v -25 z"
      id="path91" />
-  <text
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-     id="text95"
-     x="308"
-     y="150">
-    <tspan
-       style="font-weight:400;font-size:20px;font-family:FontAwesome;fill:#ffffff"
-       font-size="20"
-       font-weight="400"
-       x="363"
-       y="167"
-       id="tspan93"></tspan>
-  </text>
   <text
      style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
      y="145"
@@ -766,4 +735,34 @@
        fill="#45b8de"
        stroke-width="1">subscribe()</tspan>
   </text>
+  <g
+     transform="translate(274.87064,-59.065145)"
+     id="g21906">
+    <circle
+       r="8.1713362"
+       cy="219.97815"
+       cx="97.409927"
+       id="path21883"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#fffcf9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path21885"
+       d="m 98,216.00934 v 4.84228 h -3.480381 v 0"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(41.576123,-21.059773)"
+     id="g21906-9">
+    <circle
+       r="8.1713362"
+       cy="219.97815"
+       cx="97.409927"
+       id="path21883-6"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#fffcf9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path21885-9"
+       d="m 98,216.00934 v 4.84228 h -3.480381 v 0"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
 </svg>
