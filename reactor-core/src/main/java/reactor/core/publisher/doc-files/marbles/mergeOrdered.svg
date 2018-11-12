@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -539,6 +539,32 @@
            style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       overflow="visible">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path5247"
+         d="M -11,-4 1,0 -11,4 c 2,-2 2,-6 0,-8 z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-2"
+       overflow="visible">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path5247-7"
+         d="M -11,-4 1,0 -11,4 c 2,-2 2,-6 0,-8 z" />
+    </marker>
   </defs>
   <path
      d="M 27.68472,25 H 724.31528 L 726,28.895085 V 277.20676 c 0,2.92132 -0.84237,3.89509 -1.68472,3.89509 H 27.68472 C 26.84236,281.10185 26,280.12808 26,277.20676 V 28.895085 Z"
@@ -945,15 +971,129 @@
      style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2, 6;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_2-5)" />
   <text
      id="text61"
-     x="-3.4277267"
-     y="234"
+     x="-107.56356"
+     y="236"
      style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        font-size="24"
        font-weight="700"
-       x="247.57227"
-       y="256"
+       x="143.43643"
+       y="258"
        id="tspan59"
-       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c">mergeOrdered</tspan>
+       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c">mergeOrdered(</tspan>
+  </text>
+  <circle
+     id="ellipse27-3-5"
+     cy="248.74179"
+     cx="367.8255"
+     r="23"
+     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text1643-5"
+     x="335.92316"
+     y="238.48082"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
+    <tspan
+       id="tspan1641-7"
+       y="254.48083"
+       x="349.92316"
+       font-weight="700"
+       font-size="16"
+       style="font-weight:normal;font-size:16px;font-family:Tahoma, 'Nimbus Sans L';fill:#000000;fill-opacity:1">small</tspan>
+  </text>
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     r="23"
+     cx="427.82547"
+     cy="248.74179"
+     id="circle92070" />
+  <text
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     y="238.48082"
+     x="401.30594"
+     id="text92074">
+    <tspan
+       style="font-weight:700;font-size:16px;font-family:Tahoma, 'Nimbus Sans L';fill:#000000;fill-opacity:1"
+       font-size="16"
+       font-weight="700"
+       x="415.30594"
+       y="254.48083"
+       id="tspan92072">big</tspan>
+  </text>
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     r="23"
+     cx="541.8255"
+     cy="248.74179"
+     id="circle92076" />
+  <text
+     id="text1936"
+     x="338.04788"
+     y="240.7375"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none">
+    <tspan
+       font-size="24"
+       font-weight="400"
+       x="394.04788"
+       y="262.73749"
+       id="tspan1934"
+       style="font-weight:400;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c">,</tspan>
+  </text>
+  <text
+     y="236.7375"
+     x="70.047882"
+     id="text1940"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none">
+    <tspan
+       id="tspan1938"
+       y="258.73749"
+       x="330.04788"
+       font-weight="400"
+       font-size="24"
+       style="font-weight:400;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c">(</tspan>
+  </text>
+  <text
+     id="text1944"
+     x="194.04788"
+     y="236.7375"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none">
+    <tspan
+       font-size="24"
+       font-weight="400"
+       x="454.04788"
+       y="258.73749"
+       id="tspan1942"
+       style="font-weight:400;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c">)</tspan>
+  </text>
+  <path
+     id="path4954"
+     d="m 471.04789,250.7375 h 39"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend-2)" />
+  <text
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     y="238.48082"
+     x="507.92313"
+     id="text92598">
+    <tspan
+       style="font-weight:normal;font-size:16px;font-family:Tahoma, 'Nimbus Sans L';fill:#000000;fill-opacity:1"
+       font-size="16"
+       font-weight="700"
+       x="521.92316"
+       y="254.48083"
+       id="tspan92596">small</tspan>
+  </text>
+  <text
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     y="236"
+     x="321.39563"
+     id="text92602">
+    <tspan
+       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c"
+       id="tspan92600"
+       y="258"
+       x="572.39563"
+       font-weight="700"
+       font-size="24">)</tspan>
   </text>
 </svg>

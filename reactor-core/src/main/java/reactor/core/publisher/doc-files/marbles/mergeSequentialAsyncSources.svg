@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -843,6 +843,63 @@
            style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
+    <marker
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10"
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker-5-2-1-3-5"
+       stroke-miterlimit="10"
+       viewBox="-1 -6 14 12"
+       markerWidth="14"
+       markerHeight="12">
+      <g
+         id="g4-3-7-2-6-3">
+        <path
+           style="fill:currentColor;stroke:currentColor;stroke-width:1"
+           inkscape:connector-curvature="0"
+           d="M 12,0 0,-4 v 9 z"
+           id="path2-5-0-7-7-8" />
+      </g>
+    </marker>
+    <marker
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10"
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="marker94553"
+       stroke-miterlimit="10"
+       viewBox="-1 -6 14 12"
+       markerWidth="14"
+       markerHeight="12">
+      <g
+         id="g94551">
+        <path
+           style="fill:currentColor;stroke:currentColor;stroke-width:1"
+           inkscape:connector-curvature="0"
+           d="M 12,0 0,-4 v 9 z"
+           id="path94549" />
+      </g>
+    </marker>
+    <marker
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10"
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker-5-2-1-3-2"
+       stroke-miterlimit="10"
+       viewBox="-1 -6 14 12"
+       markerWidth="14"
+       markerHeight="12">
+      <g
+         id="g4-3-7-2-6-4">
+        <path
+           style="fill:currentColor;stroke:currentColor;stroke-width:1"
+           inkscape:connector-curvature="0"
+           d="M 12,0 0,-4 v 9 z"
+           id="path2-5-0-7-7-1" />
+      </g>
+    </marker>
   </defs>
   <path
      d="M 43.014242,102 H 730.01424 l 1,5.94926 v 398.60066 l -1,5.94927 H 43.014242 l -1,-5.94927 V 107.94926 Z"
@@ -1021,11 +1078,6 @@
      inkscape:connector-curvature="0"
      style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2, 6;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_2-5)" />
   <path
-     id="line1181-0"
-     d="M 68.014242,451.4992 H 703.01424"
-     inkscape:connector-curvature="0"
-     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
-  <path
      id="line1454"
      d="m 332.01424,322.4992 h 335"
      inkscape:connector-curvature="0"
@@ -1098,19 +1150,6 @@
      d="m 549.01424,513.4992 v 28"
      inkscape:connector-curvature="0"
      style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2, 6;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_2-5)" />
-  <text
-     id="text61-2"
-     x="31.869711"
-     y="465.49921"
-     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
-    <tspan
-       font-size="24"
-       font-weight="700"
-       x="282.86972"
-       y="487.49921"
-       id="tspan59-8"
-       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c">mergeSequential</tspan>
-  </text>
   <path
      id="line911-9"
      d="M 48.789941,134.32248 H 692.43418"
@@ -1314,4 +1353,109 @@
      style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
      id="path40-5"
      d="m 633.13461,110.7029 c 2,0 2,1 2,2 v 44 c 0,1 0,2 -2,2 l -2,-2 v -44 z" />
+  <path
+     id="line1181-0"
+     d="M 68.014242,451.4992 H 703.01424"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text61-2"
+     x="-116.47811"
+     y="465.49921"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
+    <tspan
+       font-size="24"
+       font-weight="700"
+       x="134.52188"
+       y="487.49921"
+       id="tspan59-8"
+       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c">mergeSequential(</tspan>
+  </text>
+  <text
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     y="464.51978"
+     x="374.33856"
+     id="text977">
+    <tspan
+       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c"
+       id="tspan975"
+       y="486.51974"
+       x="625.33862"
+       font-weight="700"
+       font-size="24">)</tspan>
+  </text>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-5-2-1-3-2)"
+     id="line926"
+     d="m 353.03741,479.46348 h 248" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
+     id="rect995"
+     width="89"
+     height="29"
+     ry="8"
+     rx="10"
+     x="479.33856"
+     y="464.51978"
+     stroke-miterlimit="4" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-5-2-1-3-5)"
+     id="line970"
+     d="m 485.33856,479.51977 h 60" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     id="path972"
+     d="m 538.33856,470.51977 1,1 v 15 l -1,1 -1,-1 v -15 z" />
+  <circle
+     r="7"
+     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     cx="501.33856"
+     cy="479.51978"
+     id="ellipse974" />
+  <circle
+     r="7"
+     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     cx="522.33862"
+     cy="479.51978"
+     id="ellipse976" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
+     y="464.51978"
+     x="373.33856"
+     rx="10"
+     ry="8"
+     height="29"
+     width="89"
+     id="rect1002"
+     stroke-miterlimit="4" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-5-2-1-3-5)"
+     id="line1004"
+     d="m 379.33856,479.51977 h 60" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     d="m 432.33856,470.51977 1,1 v 15 l -1,1 -1,-1 v -15 z"
+     id="path1006" />
+  <circle
+     r="7"
+     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="ellipse1008"
+     cy="479.51978"
+     cx="395.33856" />
+  <circle
+     r="7"
+     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="ellipse1010"
+     cy="479.51978"
+     cx="416.33856" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+     id="path1016"
+     d="m 587.33856,461.51977 2,1 v 31 l -2,2 -2,-2 v -31 z" />
 </svg>
