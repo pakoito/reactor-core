@@ -8068,5 +8068,97 @@
          d="m 98,216.00934 v 4.84228 h -3.480381 v 0"
          style="fill:none;fill-rule:evenodd;stroke:#929292;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="271.65897"
+       y="8.6859503"
+       id="text20541-1-7-8-53"><tspan
+         sodipodi:role="line"
+         id="tspan20539-2-8-2-2"
+         x="271.65897"
+         y="8.6859503"
+         style="stroke-width:0.26458332px">materialized signals</tspan></text>
+    <path
+       id="path95"
+       d="m 290.76075,20.212108 -2.38125,-2.91042 h -34.13125 l -2.38125,2.91042 v 18.52083 l 2.38125,2.64584 h 34.13125 l 2.38125,-2.64584 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text99"
+       x="254.77742"
+       y="25.73287"
+       style="font-size:3.17499995px;fill:#34302c;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-dasharray:none;stroke-opacity:1">
+      <tspan
+         id="tspan97"
+         y="31.289114"
+         x="254.77742"
+         font-weight="700"
+         font-size="22"
+         style="font-weight:700;font-size:5.82083321px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;fill-opacity:1;stroke-width:0.26458332">onNext</tspan>
+    </text>
+    <g
+       id="g947"
+       transform="matrix(0.26458333,0,0,0.26458333,244.98784,-59.677162)"
+       style="fill-opacity:1;stroke-dasharray:none;stroke-opacity:1">
+      <circle
+         cx="144"
+         cy="336"
+         id="ellipse102-2"
+         r="23"
+         style="fill:#6cb33e;stroke:none" />
+      <circle
+         cx="144"
+         cy="336"
+         id="ellipse104"
+         r="23"
+         style="fill:none;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+    </g>
+    <path
+       id="path963"
+       d="m 343.58838,20.212108 -2.38125,-2.91042 h -34.13125 l -2.38125,2.91042 v 18.52083 l 2.38125,2.64584 h 34.13125 l 2.38125,-2.64584 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text127"
+       x="306.58405"
+       y="25.483007"
+       style="font-size:3.17499995px;fill:#34302c;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-dasharray:none;stroke-opacity:1">
+      <tspan
+         id="tspan125"
+         y="30.774679"
+         x="307.37781"
+         font-weight="700"
+         font-size="21"
+         style="font-weight:700;font-size:5.5562501px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;fill-opacity:1;stroke-width:0.26458332">onComplete</tspan>
+    </text>
+    <path
+       d="m 394.36426,20.212108 -2.38125,-2.64583 h -34.13125 l -2.38125,2.64583 v 18.52083 l 2.38125,2.91042 h 34.13125 l 2.38125,-2.91042 z"
+       id="path1033"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       y="25.903524"
+       x="358.64548"
+       id="text1039"
+       style="font-size:3.17499995px;fill:#34302c;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-dasharray:none;stroke-opacity:1">
+      <tspan
+         font-size="21"
+         font-weight="700"
+         x="359.43924"
+         y="31.195196"
+         id="tspan1037"
+         style="font-weight:700;font-size:5.5562501px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;fill-opacity:1;stroke-width:0.26458332">onError</tspan>
+    </text>
+    <path
+       id="path1049"
+       d="m 390.39551,33.323878 -0.52916,0.79375 h -0.79375 l -8.20209,-8.20208 v -0.79375 l 0.52917,-0.79375 h 0.79375 l 8.20208,8.46666 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ef2200;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path1051"
+       d="m 389.86635,24.328048 0.52916,0.79375 v 0.52916 l -8.20208,8.46667 h -0.79375 l -0.52917,-0.79375 v -0.52917 l 8.20209,-8.46666 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ef2200;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
