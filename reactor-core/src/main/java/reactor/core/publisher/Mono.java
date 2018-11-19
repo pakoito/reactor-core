@@ -3344,7 +3344,7 @@ public abstract class Mono<T> implements Publisher<T> {
 	 * </ul>
 	 *
 	 * <p>
-	 * <img class="marble" src="doc-files/marbles/retryBackoffWithLimitAndFirstBackoffForMono.svg" alt="">
+	 * <img class="marble" src="doc-files/marbles/retryBackoffForMono.svg" alt="">
 	 *
 	 * @param numRetries the maximum number of attempts before an {@link IllegalStateException}
 	 * is raised (having the original retry-triggering exception as cause).
@@ -3379,7 +3379,7 @@ public abstract class Mono<T> implements Publisher<T> {
 	 * </ul>
 	 *
 	 * <p>
-	 * <img class="marble" src="doc-files/marbles/retryBackoffWithLimitAndFirstBackoffAndMaxBackoffForMono.svg" alt="">
+	 * <img class="marble" src="doc-files/marbles/retryBackofForMono.svg" alt="">
 	 *
 	 * @param numRetries the maximum number of attempts before an {@link IllegalStateException}
 	 * is raised (having the original retry-triggering exception as cause).

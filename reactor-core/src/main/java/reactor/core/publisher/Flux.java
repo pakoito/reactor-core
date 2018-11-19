@@ -6955,7 +6955,7 @@ public abstract class Flux<T> implements Publisher<T> {
 	 * </ul>
 	 *
 	 * <p>
-	 * <img class="marble" src="doc-files/marbles/retryBackoffWithLimitAndFirstBackoffForFlux.svg" alt="">
+	 * <img class="marble" src="doc-files/marbles/retryBackoffForFlux.svg" alt="">
 	 *
 	 * @param numRetries the maximum number of attempts before an {@link IllegalStateException}
 	 * is raised (having the original retry-triggering exception as cause).
@@ -6990,7 +6990,7 @@ public abstract class Flux<T> implements Publisher<T> {
 	 * </ul>
 	 *
 	 * <p>
-	 * <img class="marble" src="doc-files/marbles/retryBackoffWithLimitAndFirstBackoffAndMaxBackoffForFlux.svg" alt="">
+	 * <img class="marble" src="doc-files/marbles/retryBackoffForFlux.svg" alt="">
 	 *
 	 * @param numRetries the maximum number of attempts before an {@link IllegalStateException}
 	 * is raised (having the original retry-triggering exception as cause).
